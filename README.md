@@ -5,7 +5,7 @@ En este código lo que se hace es invertir imagenes bmp, este tambien cuenta con
 
 Para poder conseguir este efecto necesitamos utilizar las siguientes librerías:
 
-```cpp
+```mlx
 #include <stdio.h>
 #include <stdlib.h>
 ```
