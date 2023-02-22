@@ -6,8 +6,11 @@ En este código lo que se hace es invertir imagenes bmp, este tambien cuenta con
 Para poder conseguir este efecto necesitamos utilizar las siguientes librerías:
 
 ```mlx
-#include <stdio.h>
-#include <stdlib.h>
+clear all
+close all
+clc
+
+syms th1(t) a1 th2(t) a2 t
 ```
 
 En la siguiente parte definimos la cantidad de threads y las variables globales que utizaremos dentro del código.
